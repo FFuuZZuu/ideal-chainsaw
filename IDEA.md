@@ -1,6 +1,6 @@
-#IDEAS
+# IDEAS
 
-##List of Ideas
+## List of Ideas
 * lift simulator
 * 2d
 * pixel art
